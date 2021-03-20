@@ -1,0 +1,13 @@
+C:\Users\Bacha\source\repos\TestGetUrl\TestGetUrl\bin\Debug\netcoreapp3.0\TestGetUrl.exe
+C:\Users\Bacha\source\repos\TestGetUrl\TestGetUrl\bin\Debug\netcoreapp3.0\TestGetUrl.deps.json
+C:\Users\Bacha\source\repos\TestGetUrl\TestGetUrl\bin\Debug\netcoreapp3.0\TestGetUrl.runtimeconfig.json
+C:\Users\Bacha\source\repos\TestGetUrl\TestGetUrl\bin\Debug\netcoreapp3.0\TestGetUrl.runtimeconfig.dev.json
+C:\Users\Bacha\source\repos\TestGetUrl\TestGetUrl\bin\Debug\netcoreapp3.0\TestGetUrl.dll
+C:\Users\Bacha\source\repos\TestGetUrl\TestGetUrl\bin\Debug\netcoreapp3.0\TestGetUrl.pdb
+C:\Users\Bacha\source\repos\TestGetUrl\TestGetUrl\obj\Debug\netcoreapp3.0\TestGetUrl.csprojAssemblyReference.cache
+C:\Users\Bacha\source\repos\TestGetUrl\TestGetUrl\obj\Debug\netcoreapp3.0\TestGetUrl.AssemblyInfoInputs.cache
+C:\Users\Bacha\source\repos\TestGetUrl\TestGetUrl\obj\Debug\netcoreapp3.0\TestGetUrl.AssemblyInfo.cs
+C:\Users\Bacha\source\repos\TestGetUrl\TestGetUrl\obj\Debug\netcoreapp3.0\TestGetUrl.dll
+C:\Users\Bacha\source\repos\TestGetUrl\TestGetUrl\obj\Debug\netcoreapp3.0\TestGetUrl.pdb
+C:\Users\Bacha\source\repos\TestGetUrl\TestGetUrl\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Bacha\source\repos\TestGetUrl\TestGetUrl\obj\Debug\netcoreapp3.0\TestGetUrl.csproj.CopyComplete
